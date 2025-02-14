@@ -75,8 +75,7 @@
 
 📊 **Current Focus:**  
 - 🏗 Building an **E-commerce Website**  
-- 🎵 Developing a **Spotify Clone**  
-- ☁ Learning **AWS & Cloud Computing**  
+
 
 ---
 
