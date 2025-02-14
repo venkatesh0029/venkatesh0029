@@ -74,23 +74,6 @@
 
 
 ---
----
-
-## 🎮 **Play a Quick Game!**  
-
-### **🐍 Snake Game**
-<p align="center">
-  <a href="https://playsnake.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Snake_game_running.PNG/640px-Snake_game_running.PNG" width="300px">
-  </a>
-</p>
-
-🔹 **Click the image above to play the classic Snake Game online!**  
-🔹 **Try to score as high as possible!**  
-
----
-
-
 ## 🌎 **Let's Connect!**  
 <p align="center">
   <a href="https://www.linkedin.com/in/venkateswarlu-bonthala-65914624a/">
