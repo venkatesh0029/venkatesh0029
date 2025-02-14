@@ -31,10 +31,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
-### ⚙️ **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-
 ### 💾 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -81,13 +77,13 @@
 
 ## 🌎 **Let's Connect!**  
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/venkateswarlu-bonthala-65914624a/">
     <img src="https://img.shields.io/badge/LinkedIn-venkatesh-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:venkateshbonthala8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com">
