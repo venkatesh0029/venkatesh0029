@@ -30,12 +30,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
 ### 💾 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
 
 ### 🔧 **Tools & Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,6 +54,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkatesh0029&theme=radical" />
 </p>
 
+### 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkatesh0029&theme=radical&margin-w=15&no-bg=true" />
+</p>
+
 ---
 
 ## 🔥 **Fun & Extra Stuff**  
@@ -69,8 +70,7 @@
 > “First, solve the problem. Then, write the code.” – John Johnson  
 
 📊 **Current Focus:**  
-- 🏗 Building an **E-commerce Website**  
-
+- 🏠 Building an **E-commerce Website**  
 
 ---
 ## 🌎 **Let's Connect!**  
@@ -91,5 +91,7 @@
 
 ---
 
-⭐ **Thanks for visiting! Feel free to explore my repositories and connect!**  
+🌟 **Thanks for visiting! Feel free to explore my repositories and connect!**
+
+
 
