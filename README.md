@@ -61,11 +61,7 @@
 
 ---
 
-## 🔥 **Fun & Extra Stuff**  
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
-</p>
-
+## 🔥 **Fun & Extra Stuff** 
 💡 **Quote of the Day:**  
 > “First, solve the problem. Then, write the code.” – John Johnson  
 
