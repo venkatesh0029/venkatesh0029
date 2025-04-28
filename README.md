@@ -36,13 +36,7 @@
 
 ---
 
-## 📫 Let's Connect
 
-- 🔗 [GitHub](https://github.com/venkatesh0029)
-- 💼 [LinkedIn](https://www.linkedin.com/in/venkatesh0029/)
-- 🧑‍💻 [Portfolio](https://venkatesh0029.github.io/)
-
-Feel free to reach out for collaboration or just a friendly chat!
 
 
 
