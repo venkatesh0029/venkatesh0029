@@ -1,4 +1,4 @@
-# Hi there, I'm Venkatesh 👋0000
+# Hi there, I'm Venkatesh 👋
 
 Welcome to my GitHub profile! 
 I'm passionate about **technology**, **software development**, and **continuous learning**.
