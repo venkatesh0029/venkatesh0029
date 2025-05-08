@@ -9,9 +9,7 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **Full-Stack Projects, Web Apps, and Blockchain DApps**
-- 🌱 I’m learning **TensorFlow, Solidity, Web3, and SQL**
-- 💬 Ask me about **Java, MySQL, Web3, or building secure apps**
+- 🔭 I’m currently working on **Full-Stack Projects**
 - ⚡ Fun fact: I believe **code + coffee = superpowers ☕🚀**
 
 ---
