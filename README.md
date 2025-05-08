@@ -1,75 +1,65 @@
-# Hi there, I'm Venkatesh 👋
+<h1 align="center">Hi 👋, I'm Venkatesh</h1>
+<h3 align="center">A Passionate Developer and Tech Enthusiast 🚀</h3>
 
-Welcome to my GitHub profile! 
-I'm passionate about **technology**, **software development**, and **continuous learning**.
-
----
-
-## 🚀 About Me
-
-- 🎓 I’m currently studying/completed [Your Degree/Field, e.g., B.Tech in Computer Science]
-- 💻 I love working on **full-stack development**, **open-source projects**, and **new technologies**.
-- 🛠️ Currently exploring **Blockchain**, **AI/ML**, and **Cloud Computing**.
-- 🌱 Always learning and improving my skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Java+%7C+Web+Dev+%7C+Blockchain;Always+learning+and+building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🌟 About Me
 
-<div align="center">
-  
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
- 
-  <br><br>
-
-  <!-- Frontend Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-  <br><br>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
- 
-
-  <br><br>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-
-
-</div>
-
+- 🔭 I’m currently working on **Full-Stack Projects, Web Apps, and Blockchain DApps**
+- 🌱 I’m learning **TensorFlow, Solidity, Web3, and SQL**
+- 💬 Ask me about **Java, MySQL, Web3, or building secure apps**
+- ⚡ Fun fact: I believe **code + coffee = superpowers ☕🚀**
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack
 
-![Venkatesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh0029&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh0029&layout=compact&theme=radical)
-
----
-
-## 📫 How to Reach Me
-
-- 📧 Email: venkateshbonthala8@gmail.com
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,react,mysql,git,github,python" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+### 📊 GitHub Stats
 
-> "Consistency is more important than perfection."
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=venkatesh0029&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh0029&theme=radical" />
+</p>
 
-Thanks for visiting my profile! ⭐ Feel free to check out my repositories and connect with me!
+---
 
+### 📫 Connect with Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/venkatesh0029" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:venkatesh0029@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/venkatesh0029"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
 
+---
+
+### 🖼️ Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎧 Spotify Clone | A full-stack Spotify-like music streaming app | React, Node.js, Express, MongoDB |
+| ☕ Cafe Management System | Java Swing-based GUI project with billing & orders | Java, MySQL |
+| 🔐 Secure Genius | Password Analyzer and Security Assistant | Python, Crypto, UI Toolkit |
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=venkatesh0029&theme=react-dark" />
+</p>
+
+---
+
+<p align="center">💡 *Keep learning, keep building.* ✨</p>
 
