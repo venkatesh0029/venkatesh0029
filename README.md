@@ -41,13 +41,6 @@
 
 ---
 
-### 🖼️ Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🎧 Spotify Clone | A full-stack Spotify-like music streaming app | React, Node.js, Express, MongoDB |
-| ☕ Cafe Management System | Java Swing-based GUI project with billing & orders | Java, MySQL |
-| 🔐 Secure Genius | Password Analyzer and Security Assistant | Python, Crypto, UI Toolkit |
 
 ---
 
