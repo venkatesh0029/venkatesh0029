@@ -51,3 +51,11 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+### Light Mode
+![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake.svg)
+
+### Dark Mode
+![Snake animation](https://github.com/tarunganesh2004/tarunganesh2004/raw/main/dist/snake-dark.svg?palette=github-dark)
+
