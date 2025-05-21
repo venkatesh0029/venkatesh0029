@@ -10,7 +10,7 @@
 
 - 🎓 Computer Science Undergraduate (2nd Year)
 - 🌐 Passionate about Web Development and Cloud Computing
-- 🚀 Currently exploring Next.js and DevOps tools
+- 🚀 Currently exploring Next.js 
 - 🤖 Diving into AI/ML for future projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/venkatesh0029/) | [Email](mailto:venkatesh0029@example.com)
 
@@ -50,12 +50,4 @@
 
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
-### Light Mode
-![Snake animation](https://github.com/venkatesh0029/venkatesh0029/raw/main/dist/snake.svg)
-
-### Dark Mode
-![Snake animation](https://github.com/venkatesh0029/venkatesh0029/raw/main/dist/snake-dark.svg?palette=github-dark)
 
