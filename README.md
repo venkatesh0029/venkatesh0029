@@ -11,8 +11,7 @@
 - 🎓 Computer Science Undergraduate (2nd Year)
 - 🌐 Passionate about Web Development  
 - 🤖 Diving into AI/ML for future projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/venkatesh0029/) | [Email](mailto:venkatesh0029@example.com)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/venkateswarlu-bonthala/) | [Email](venkateshbonthala8@gmail.com)
 ---
 
 ## 🛠️ Tech Stack & Tools
