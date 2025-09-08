@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Undergraduate (2nd Year)
+- 🎓 Computer Science Undergraduate ( 3rd Year)
 - 🌐 Passionate about Web Development  
 - 🤖 Diving into AI/ML for future projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/venkateswarlu-bonthala/) | [Email](venkateshbonthala8@gmail.com)
