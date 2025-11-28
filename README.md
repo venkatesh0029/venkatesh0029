@@ -71,28 +71,28 @@ const venkatesh = {
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,c,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css,sql" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nnodejs />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,heroku,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=ggit,github,docker,vscode" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
