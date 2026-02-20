@@ -32,10 +32,9 @@ const venkatesh = {
     techStack: {
         languages   : ["Java", "Python", "JavaScript", "C++", "C", "SQL"],
         frontend    : ["React", "HTML5", "CSS3", "Tailwind CSS"],
-        backend     : ["Node.js", "Express.js", "Spring Boot"],
+        backend     : ["Node.js"],
         databases   : ["MongoDB", "MySQL", "PostgreSQL"],
-        blockchain  : ["Solidity", "Web3.js", "Ethereum"],
-        tools       : ["Git", "GitHub", "Docker", "VS Code", "n8n"],
+        tools       : ["Git", "GitHub", "Docker", "VS Code"],
     },
 
     goals: {
