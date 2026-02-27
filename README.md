@@ -20,7 +20,7 @@ const venkatesh = {
     alias       : "venkatesh0029",
     role        : "Full-Stack Developer & Blockchain Explorer",
     education   : "3rd Year CS Undergraduate @ SRM KTR",
-    location    : "Andhra Pradesh, India 🇮🇳",
+    location    : "Chennai , India 🇮🇳",
 
     currentFocus: [
         "🔗 Building Smart Contracts & DApps",
