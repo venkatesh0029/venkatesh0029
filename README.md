@@ -1,12 +1,21 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I'm+Venkatesh;Full-Stack+Developer+%7C+Blockchain+Explorer;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://github.com/venkatesh0029)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Venkateswarlu&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Blockchain%20Explorer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Venkatesh%20%F0%9F%94%A5&fontSize=70&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20%7C%20AI%20Enthusiast&descSize=22&descAlign=50&descAlignY=55&animation=fadeIn)](https://github.com/venkatesh0029)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B+I'm+Venkatesh;Full-Stack+Developer+%7C+Blockchain+Explorer;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://github.com/venkatesh0029)
+
+</div>
+
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=venkatesh0029&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/venkatesh0029)
-[![GitHub Followers](https://img.shields.io/github/followers/venkatesh0029?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/venkatesh0029)
-[![GitHub Stars](https://img.shields.io/github/stars/venkatesh0029?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/venkatesh0029)
+[![GitHub followers](https://img.shields.io/github/followers/venkatesh0029?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/venkatesh0029?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/venkatesh0029?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/venkatesh0029)
+[![Repos](https://img.shields.io/badge/Repositories-35-0891b2?style=for-the-badge&logo=github&labelColor=1c1917)](https://github.com/venkatesh0029?tab=repositories)
 
 </div>
 
@@ -14,129 +23,158 @@
 
 ## 👨‍💻 About Me
 
-```javascript
+```typescript
 const venkatesh = {
     name        : "Venkateswarlu",
-    alias       : "venkatesh0029",
-    role        : "Full-Stack Developer & Blockchain Explorer",
+    username    : "venkatesh0029",
     education   : "3rd Year CS Undergraduate @ SRM KTR",
-    location    : "Chennai , India 🇮🇳",
+    location    : "Andhra Pradesh, India 🇮🇳",
 
     currentFocus: [
-        "🔗 Building Smart Contracts & DApps",
-        "⚡ Scalable MERN Stack Applications",
-        "🤖 AI & ML Automation Workflows",
-        "🎨 Animated & Interactive UIs"
+        "🤖 Building Autonomous AI Agents (JARVIS-X)",
+        "🔗 Exploring Blockchain & Web3 DApps",
+        "⚛️  Crafting scalable MERN applications",
+        "🎨 Creating beautiful, animated UIs"
     ],
 
     techStack: {
-        languages   : ["Java", "Python", "JavaScript", "C++", "C", "SQL"],
-        frontend    : ["React", "HTML5", "CSS3", "Tailwind CSS"],
-        backend     : ["Node.js"],
-        databases   : ["MongoDB", "MySQL", "PostgreSQL"],
-        tools       : ["Git", "GitHub", "Docker", "VS Code"],
+        languages : ["Java", "Python", "JavaScript", "C++", "C", "SQL"],
+        frontend  : ["React", "Tailwind CSS", "HTML5", "CSS3"],
+        backend   : ["Node.js", "Express", "FastAPI", "Spring Boot", "PHP"],
+        databases : ["MongoDB", "MySQL", "PostgreSQL", "ChromaDB", "SQLite"],
+        ai_ml     : ["LangGraph", "LangChain", "faster-whisper", "piper-tts"],
+        devops    : ["Docker", "Git", "GitHub Actions", "VS Code"],
     },
 
-    goals: {
-        shortTerm   : "Land SDE Role @ Top Tech Company",
-        longTerm    : "Build impactful Web3 products",
-    },
-
-    funFact     : "I turn caffeine into code ☕ → 💻"
+    goals  : { career: "SDE Role @ Top Tech Company 🎯" },
+    funFact: "I turn caffeine into code ☕ → 💻"
 };
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🎯 Current Focus
 
-| 🔗 Blockchain Development | ⚡ Full-Stack Development | 🤖 AI & Automation |
-|:---:|:---:|:---:|
-| Smart Contracts & DApps | MERN & Java Spring Stack | ML Models & n8n Workflows |
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| 🤖 AI & Automation | 🔗 Blockchain & Web3 | ⚛️ Full-Stack Dev |
+|:---:|:---:|:---:|
+| Building autonomous agents with LangGraph, voice I/O, multi-modal vision & zero-trust security | Learning Smart Contracts, Solidity & DApp development | MERN stack + Java Spring for scalable production apps |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-[![](https://skillicons.dev/icons?i=java,python,javascript,cpp,c,html,css,sql)](https://skillicons.dev)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
 
 ### 🎨 Frontend
-[![](https://skillicons.dev/icons?i=react,tailwind,html,css)](https://skillicons.dev)
+<div align="center">
 
-### ⚙️ Backend
-[![](https://skillicons.dev/icons?i=nodejs,express,spring)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🗄️ Databases
-[![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)](https://skillicons.dev)
+</div>
 
-### 🧰 Tools & Platforms
-[![](https://skillicons.dev/icons?i=git,github,docker,vscode)](https://skillicons.dev)
+### ⚙️ Backend & Databases
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 🤖 AI / ML
+<div align="center">
+
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Whisper](https://img.shields.io/badge/faster--whisper-STT-FF4444?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-FF6B00?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+
+</div>
+
+### 🧰 Tools & DevOps
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍️ Amazon-Style E-Commerce Platform
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+<div align="center">
 
-> Full-featured e-commerce platform with cart, wishlist, payment integration, and admin panel — inspired by Amazon's UI/UX.
+### 🌟 Flagship
 
-**Key Features:**
-- 🔐 Secure user authentication & authorization
-- 🛒 Shopping cart & wishlist management
-- 💳 Payment gateway integration
-- 📊 Admin dashboard with analytics
-- 📱 Fully responsive design
-
-[![View Project](https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/venkatesh0029)
+</div>
 
 ---
 
-### 🔐 Secure Genius — Password Analyzer
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing%20GUI-007396?style=flat-square&logo=java&logoColor=white)
+### 🤖 [JARVIS-X — Autonomous AI Operations Center](https://github.com/venkatesh0029/Nexus-X)
 
-> Advanced password strength analyzer with real-time feedback, entropy scoring, and security recommendations.
+> A fully local, zero-trust, ReAct-based AI agent platform running on Windows hardware.
 
-**Key Features:**
-- 📊 Real-time strength scoring & entropy analysis
-- 🔍 Pattern detection (common passwords, dictionary attacks)
-- 💡 Actionable improvement suggestions
-- 🖥️ Clean Swing-based desktop interface
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/View%20Project-8B5CF6?style=for-the-badge&logo=java&logoColor=white)](https://github.com/venkatesh0029)
+```
+🧠 ReAct LangGraph Agent  →  planner → executor → memory → security
+🎤 Offline Voice (STT/TTS/Wake Word)     👁️ Multi-Modal Desktop Vision
+🔒 Zero-Trust Security Gateway           📡 WebSocket Real-Time Dashboard
+🐳 Docker-Sandboxed Shell Execution      💾 Chroma Vector + Semantic Memory
+```
 
----
-
-### 📚 DSA Visualization Tool
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-> An interactive tool to visualize Data Structures and Algorithms in action — perfect for learning and teaching.
-
-[![View Project](https://img.shields.io/badge/View%20Project-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatesh0029/DSA-Visualization-Tool)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatesh0029/Nexus-X)
 
 ---
 
-### 🔑 Authentication System
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<div align="center">
 
-> A secure PHP-based Login & Registration System with session management and MySQL backend.
+### 📌 All Projects
 
-[![View Project](https://img.shields.io/badge/View%20Project-F59E0B?style=for-the-badge&logo=github&logoColor=black)](https://github.com/venkatesh0029/Authentication-System)
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| # | Project | Description | Tech Stack | Link |
+|---|---|---|---|---|
+| 🛍️ | **Amazon E-Commerce** | Full-featured store with cart, wishlist, payment & admin panel | React · Node.js · Express · MySQL · Bootstrap | [→](https://github.com/venkatesh0029) |
+| 🔐 | **Secure Genius** | Password strength analyzer with real-time security feedback | Java · Security Algorithms · Swing GUI | [→](https://github.com/venkatesh0029) |
+| 📊 | **DSA Visualization Tool** | Interactive visualizer for data structures & algorithms | Java | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/venkatesh0029/DSA-Visualization-Tool) |
+| 📚 | **Library Management System** | OOP-based library system with book tracking & member management | Java | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/venkatesh0029/Library-Management-System-OOPS) |
+| 🧠 | **Online Quiz App** | Dynamic quiz application with scoring and timer | JavaScript | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/venkatesh0029/Online-Quiz-App) |
+| 💰 | **Personal Expense Tracker** | Track, categorise and analyse personal expenses | Java | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/venkatesh0029/Personal-Expense-Tracker) |
+| 🎓 | **Student Grade Management** | Manage and compute student grades with analytics | Java | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/venkatesh0029/Student-grade-Management-App) |
+| 🔑 | **Authentication System** | Secure login & registration system | PHP · HTML · MySQL | [![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github)](https://github.com/venkatesh0029/Authentication-System) |
 
 ---
 
@@ -144,17 +182,23 @@ const venkatesh = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh0029&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/venkatesh0029)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venkatesh0029&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF)](https://github.com/venkatesh0029)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh0029&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)](https://github.com/venkatesh0029)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatesh0029&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B6B&point=FFFFFF)](https://github.com/venkatesh0029)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=venkatesh0029&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/venkatesh0029)
+<img src="https://github-readme-stats.vercel.app/api?username=venkatesh0029&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh0029&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" height="180"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh0029&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh0029&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B6B&point=FFFFFF" height="180"/>
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=venkatesh0029&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/venkatesh0029)
+
+</div>
 
 ---
 
@@ -162,19 +206,67 @@ const venkatesh = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/venkatesh0029/venkatesh0029/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/venkatesh0029/venkatesh0029/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/venkatesh0029/venkatesh0029/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/venkatesh0029/venkatesh0029/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
+## 📈 Coding Journey
 
+```
+2022  ──────●  Started CS at SRM KTR
+              └─ Java fundamentals, OOP, DSA
+
+2023  ──────●  Full-Stack Exploration
+              ├─ MERN stack (React · Node · MongoDB)
+              ├─ Library Management, Expense Tracker, Quiz App
+              └─ PHP Authentication Systems
+
+2024  ──────●  Advanced Projects
+              ├─ Amazon-style E-Commerce Platform
+              ├─ DSA Visualization Tool
+              └─ Secure Genius (Java Security)
+
+2025  ──────●  AI & Autonomous Agents
+              ├─ JARVIS-X: LangGraph + FastAPI + React
+              ├─ Offline Voice Engine (Whisper + Piper)
+              └─ Zero-Trust Agent Security Gateway
+
+NOW   ──────●  Building the Future 🚀
+              ├─ Blockchain & Web3 DApps
+              └─ SDE Role @ Top Tech Company 🎯
+```
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer)](https://github.com/venkatesh0029)
-
-### 💖 Thanks for visiting! Let's build something amazing together! 💖
-⭐ **Star my repositories if you find them interesting!**
+[![GitHub](https://img.shields.io/badge/GitHub-venkatesh0029-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatesh0029)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatesh0029)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatesh0029@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600"/>
+
+<br/><br/>
+
+**💖 Thanks for visiting! If you find my projects useful, please ⭐ them — it means a lot!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
+
