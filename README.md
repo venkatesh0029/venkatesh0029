@@ -104,14 +104,6 @@ const venkatesh = {
 
 </div>
 
-### 🤖 AI / ML
-<div align="center">
-
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Whisper](https://img.shields.io/badge/faster--whisper-STT-FF4444?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-FF6B00?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 
 </div>
 
@@ -216,31 +208,6 @@ const venkatesh = {
 
 ---
 
-## 📈 Coding Journey
-
-```
-2022  ──────●  Started CS at SRM KTR
-              └─ Java fundamentals, OOP, DSA
-
-2023  ──────●  Full-Stack Exploration
-              ├─ MERN stack (React · Node · MongoDB)
-              ├─ Library Management, Expense Tracker, Quiz App
-              └─ PHP Authentication Systems
-
-2024  ──────●  Advanced Projects
-              ├─ Amazon-style E-Commerce Platform
-              ├─ DSA Visualization Tool
-              └─ Secure Genius (Java Security)
-
-2025  ──────●  AI & Autonomous Agents
-              ├─ JARVIS-X: LangGraph + FastAPI + React
-              ├─ Offline Voice Engine (Whisper + Piper)
-              └─ Zero-Trust Agent Security Gateway
-
-NOW   ──────●  Building the Future 🚀
-              ├─ Blockchain & Web3 DApps
-              └─ SDE Role @ Top Tech Company 🎯
-```
 
 ---
 
