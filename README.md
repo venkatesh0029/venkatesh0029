@@ -42,7 +42,6 @@ const venkatesh = {
         frontend  : ["React", "Tailwind CSS", "HTML5", "CSS3"],
         backend   : ["Node.js", "Express", "FastAPI", "Spring Boot", "PHP"],
         databases : ["MongoDB", "MySQL", "PostgreSQL", "ChromaDB", "SQLite"],
-        ai_ml     : ["LangGraph", "LangChain", "faster-whisper", "piper-tts"],
         devops    : ["Docker", "Git", "GitHub Actions", "VS Code"],
     },
 
