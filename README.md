@@ -1,5 +1,5 @@
 <div align="center">
-
+<img https://readmeme.eu.cc/api/skyline.svg?skylineStyle=banner&timezone=Asia/Kolkata&label=◑+TIDES/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Venkateswarlu&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Blockchain%20Explorer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
