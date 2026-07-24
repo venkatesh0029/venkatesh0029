@@ -180,14 +180,6 @@ Multi-agent architecture with a hybrid local/cloud LLM routing layer and a block
 
 <div align="center">
 
-| 🎯 Goal | Status |
-|---|---|
-| High-leverage backend SDE placement (12–30 LPA target) | 🔄 In progress |
-| Kafka + Redis + K8s + resilience patterns mastery | 🔄 In progress |
-| LedgerCore — CQRS / Event Sourcing / Saga | 🏗️ Building |
-| SecurePay ML fraud detection → GDB integration | 🏗️ Building |
-| ARCHSYS system design HUD platform | 🧪 Prototyping |
-
 </div>
 
 <br/>
