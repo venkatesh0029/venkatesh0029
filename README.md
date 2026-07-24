@@ -39,7 +39,6 @@ name: Venky (Venkatesh)
 role: B.Tech CSE — Blockchain Technology · SRM Institute of Science and Technology
 graduation: 2027
 focus: [Distributed Systems, Backend Engineering, Blockchain/Web3, AI Agents]
-current_internship: AI Engineer — built an NLP-powered conversational chatbot
 community: Technical Domain Member @ SRM IST Blockchain Club
 philosophy: "Ship portfolio-grade systems with production-level engineering depth"
 ```
