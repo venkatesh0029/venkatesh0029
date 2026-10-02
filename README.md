@@ -171,7 +171,7 @@ Multi-agent assistant with a **hybrid local/cloud LLM routing layer** and a **bl
 - [x] Multi-service Spring Boot banking platform (GDB)
 - [ ] Event-sourced ledger with CQRS and Sagas (LedgerCore)
 - [ ] Verifiable AI agent framework (AgentTrust)
-- [ ] DSA and system design for product-company SDE interviews
+  
 
 ---
 
