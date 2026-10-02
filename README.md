@@ -33,7 +33,6 @@ focus: [Distributed Systems, Backend Engineering, Blockchain/Web3, AI Agents]
 philosophy: "Ship portfolio-grade systems with production-level engineering depth"
 ```
 
-- 🔭 **Building** → **SecurePay**, an ML fraud-detection layer on top of **GDB**, my multi-service Spring Boot banking platform
 - 🏗️ **Designing** → **LedgerCore**, an event-sourced ledger with CQRS, Sagas and Java 21 virtual threads
 - 🔐 **Researching** → **AgentTrust (VeriAgent)**, verifiable and accountable AI agent actions on Hyperledger Fabric
 - 🌱 **Sharpening** → Kafka, Redis, Kubernetes and resilience patterns for backend interviews
@@ -170,7 +169,6 @@ Multi-agent assistant with a **hybrid local/cloud LLM routing layer** and a **bl
 ## 🎯 Currently Focused On
 
 - [x] Multi-service Spring Boot banking platform (GDB)
-- [ ] ML fraud detection integration (SecurePay)
 - [ ] Event-sourced ledger with CQRS and Sagas (LedgerCore)
 - [ ] Verifiable AI agent framework (AgentTrust)
 - [ ] DSA and system design for product-company SDE interviews
