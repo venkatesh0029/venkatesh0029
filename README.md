@@ -1,223 +1,188 @@
+<!-- Save as README.md in the repo named exactly: venkatesh0029/venkatesh0029 -->
+
 <div align="center">
 
-<!-- Animated neon header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:B026FF,100:FF006E&height=280&section=header&text=Venky&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Blockchain%20%7C%20AI%20Systems&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:B026FF,100:FF006E&height=280&section=header&text=Venky&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Blockchain%20%7C%20AI%20Systems&descAlignY=58&descSize=20" width="100%" />
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+production-grade+distributed+systems;Java+%2F+Spring+Boot+%2F+Blockchain+%2F+AI+Agents;Turning+CS+theory+into+shipped%2C+scalable+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Building+production-grade+distributed+systems;Java+%2F+Spring+Boot+%2F+Kafka+%2F+Blockchain+%2F+AI+Agents;Turning+CS+theory+into+shipped%2C+scalable+code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social badges -->
-<a href="https://github.com/venkatesh0029">
-  <img src="https://img.shields.io/badge/GitHub-venkatesh0029-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-B026FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-FF006E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0221" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=venkatesh0029&label=Profile%20Views&color=B026FF&style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-venkatesh0029-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)](https://github.com/venkatesh0029)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B026FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Email](https://img.shields.io/badge/Email-Contact-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221)](mailto:YOUR-EMAIL@example.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=venkatesh0029&label=Profile%20Views&color=B026FF&style=for-the-badge)](https://github.com/venkatesh0029)
 
 </div>
 
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+---
 
 ## ⚡ About Me
 
 ```yaml
 name: Venky (Venkatesh)
-role: B.Tech CSE — Blockchain Technology · SRM Institute of Science and Technology
-graduation: 2027
-focus: [Distributed Systems, Backend Engineering, Blockchain/Web3, AI Agents]
+education: B.Tech CSE (Blockchain Technology) @ SRM Institute of Science and Technology
+stream: Java Enterprise Development
+graduating: 2027
 community: Technical Domain Member @ SRM IST Blockchain Club
+experience: AI Engineering Intern: built an NLP-powered conversational chatbot
+looking_for: Backend SDE roles at product companies
+focus: [Distributed Systems, Backend Engineering, Blockchain/Web3, AI Agents]
 philosophy: "Ship portfolio-grade systems with production-level engineering depth"
 ```
 
-- 🔭 Currently building **SecurePay** — an ML-driven fraud detection layer bolted onto **GDB**, a polyglot, multi-service Spring Boot banking platform (Python `fraud-ai-engine` + Java `fraud-service`, wired together with Kafka, Redis, Resilience4j & WebClient)
-- 🏗️ Designing **LedgerCore** — an event-sourced ledger with CQRS, Saga orchestration, and Java 21 virtual threads
-- 🧠 Prototyping **ARCHSYS** — a sci-fi HUD-style system design learning platform (Next.js, Three.js, GSAP, Liveblocks) with an AI mentor persona
-- 🌱 Sharpening Kafka, Redis, Kubernetes, and resilience-pattern fluency for high-bar backend interviews
-- 💬 Ask me about event-driven architecture, Spring Boot internals, or blockchain-secured systems
-- ⚡ Fun fact: I'd rather over-engineer a side project than under-engineer a resume bullet
+- 🔭 **Building** → **SecurePay**, an ML fraud-detection layer on top of **GDB**, my multi-service Spring Boot banking platform
+- 🏗️ **Designing** → **LedgerCore**, an event-sourced ledger with CQRS, Sagas and Java 21 virtual threads
+- 🔐 **Researching** → **AgentTrust (VeriAgent)**, verifiable and accountable AI agent actions on Hyperledger Fabric
+- 🌱 **Sharpening** → Kafka, Redis, Kubernetes and resilience patterns for backend interviews
+- 💬 **Ask me about** → event-driven architecture, Spring Boot internals, blockchain-secured systems, multi-agent AI
+- ⚡ **Fun fact** → I'd rather over-engineer a side project than under-engineer a resume bullet
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+## 🚀 Featured Projects
 
-## 🚀 Featured Builds
+### 🏦 GDB — Multi-Service Banking Platform  `Flagship`
+A **9-service Spring Boot microservices** banking platform built the way production teams build it: JWT-secured APIs, versioned DB migrations, event streaming and fault tolerance.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **Stack:** `Java` `Spring Boot` `JWT` `Kafka` `Resilience4j` `Flyway` `React` `Vite`
+- **Highlights:** service-per-domain design, circuit breakers and retries, async event flow via Kafka, Flyway-managed schema evolution
 
-### 🕸️ H.A.P.P.Y.
-**Distributed Multi-Agent AI System**
+### 🛡️ SecurePay — ML Fraud Detection for GDB  `In progress`
+A **polyglot** fraud-aware extension of GDB: a Python ML engine scoring transactions in near real time, integrated into the Java core.
 
-Confidence-bidding swarm routing across autonomous agents, a three-tier memory architecture (ChromaDB + PostgreSQL + Neo4j), a "Dream Engine" for offline reflection, a Zero-Trust cryptographic safety gate enforced via a Solidity smart contract, and a React Three Fiber 3D HUD front-end.
+- **Stack:** `Python (fraud-ai-engine)` `Java (fraud-service)` `Kafka` `Redis` `Resilience4j` `WebClient`
+- **Highlights:** transaction streaming through Kafka, Redis caching for low-latency lookups, circuit-breaker-protected calls between Java and Python services
 
-`Python` `LangChain` `Solidity` `Neo4j` `ChromaDB` `React Three Fiber`
+### 🔐 AgentTrust (VeriAgent) — Accountable AI Agents on Blockchain
+A **permissioned blockchain framework** that makes AI agent actions verifiable, attributable and auditable.
 
-</td>
-<td width="50%" valign="top">
+- **Stack:** `Hyperledger Fabric` `Cryptography` `AI Agents`
+- **Highlights:** cryptographic identity binding, multi-hop delegation scoping, real citation sourcing
 
-### 🏥 MediBook
-**Blockchain-Secured Healthcare Platform**
+### 🏥 MedChain Consent — Medical Record Access Control
+A **permissioned blockchain platform** for tamper-evident medical record access control and IoT vitals auditing. Built as a major academic project spanning distributed databases, consensus, cryptography and Ethereum/Solidity.
 
-Patient records secured on-chain, an AI triage assistant, a patient "digital twin" model, and a conversational Pulse AI chatbot — built on Spring Boot + React.
+- **Stack:** `Blockchain` `Solidity` `Ethereum` `IoT` `Cryptography`
 
-`Java` `Spring Boot` `React` `Solidity` `AI Triage`
+### 🕸️ H.A.P.P.Y. — Distributed Multi-Agent AI System
+Autonomous agents coordinate through **confidence-bidding swarm routing**, backed by a **three-tier memory** (ChromaDB + PostgreSQL + Neo4j), an offline "Dream Engine" for reflection, a Zero-Trust cryptographic safety gate enforced by a **Solidity smart contract**, and a **React Three Fiber** 3D HUD.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- **Stack:** `Python` `LangChain` `Solidity` `Neo4j` `ChromaDB` `PostgreSQL` `React Three Fiber`
 
-### 🏦 GDB + SecurePay
-**Polyglot Fraud-Aware Banking Platform**
+### 🏥 MediBook — Blockchain-Secured Healthcare Platform
+Patient records secured on-chain, with an AI triage assistant, a patient "digital twin" model and a conversational Pulse AI chatbot.
 
-Multi-service Spring Boot banking core extended with a Python ML fraud-detection engine, streamed through Kafka, cached with Redis, and hardened with Resilience4j circuit breakers.
+- **Stack:** `Java` `Spring Boot` `React` `Solidity` `AI Triage`
 
-`Java` `Spring Boot` `Python` `Kafka` `Redis` `Resilience4j`
+### 🛒 SmartShelf AI (Ivensee) — Retail Shelf Monitoring
+Computer-vision shelf monitoring built on **YOLOv8** to detect stock levels and shelf gaps.
 
-</td>
-<td width="50%" valign="top">
+- **Stack:** `Python` `YOLOv8` `Computer Vision`
 
-### 🤖 JARVIS
-**Personal AI Assistant**
+### 🤖 JARVIS — Personal AI Assistant
+Multi-agent assistant with a **hybrid local/cloud LLM routing layer** and a **blockchain-based identity layer** for verifiable trust.
 
-Multi-agent architecture with a hybrid local/cloud LLM routing layer and a blockchain-based identity layer for verifiable trust.
+- **Stack:** `Multi-Agent Systems` `LLMs` `Blockchain Identity`
 
-`Multi-Agent Systems` `LLMs` `Blockchain Identity`
+### 🧱 In the Design Phase
 
-</td>
-</tr>
-</table>
+| Project | What it is | Core ideas |
+|---|---|---|
+| **LedgerCore** | Event-sourced ledger | CQRS, Saga orchestration, Java 21 virtual threads |
+| **ARCHSYS** | Sci-fi HUD-style system design learning platform with an AI mentor persona | Next.js, Three.js, GSAP, Liveblocks, Claude API |
 
-<div align="center">
-<img src="https://img.shields.io/badge/LedgerCore-CQRS%20%7C%20Event%20Sourcing%20%7C%20Virtual%20Threads-00F5FF?style=for-the-badge&labelColor=0d0221" />
-<img src="https://img.shields.io/badge/ARCHSYS-System%20Design%20HUD-B026FF?style=for-the-badge&labelColor=0d0221" />
-</div>
+---
 
-<br/>
+## 🧰 Foundations & Smaller Builds
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+| Repo | Description | Tech |
+|---|---|---|
+| [DSA-Visualization-Tool](https://github.com/venkatesh0029/DSA-Visualization-Tool) | Visualizing core data structures and algorithms | `Java` |
+| [Library-Management-System-OOPS](https://github.com/venkatesh0029/Library-Management-System-OOPS) | OOP-driven library management | `Java` |
+| [Personal-Expense-Tracker](https://github.com/venkatesh0029/Personal-Expense-Tracker) | Track and categorize expenses | `Java` |
+| [Student-grade-Management-App](https://github.com/venkatesh0029/Student-grade-Management-App) | Grade management app | `Java` |
+| [Online-Quiz-App](https://github.com/venkatesh0029/Online-Quiz-App) | Browser-based quiz app | `JavaScript` |
+| [Authentication-System](https://github.com/venkatesh0029/Authentication-System) | Login and registration system | `PHP` `MySQL` |
+
+---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-00F5FF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Spring_Boot-B026FF?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Python-FF006E?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Node.js-B026FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0221"/>
+![Java](https://img.shields.io/badge/Java-00F5FF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0221)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-B026FF?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d0221)
+![Python](https://img.shields.io/badge/Python-FF006E?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0221)
+![React](https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0221)
+![Node.js](https://img.shields.io/badge/Node.js-B026FF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0221)
 <br/>
-<img src="https://img.shields.io/badge/Solidity-FF006E?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/MongoDB-00F5FF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/PostgreSQL-B026FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Docker-FF006E?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Kafka-00F5FF?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d0221"/>
+![Solidity](https://img.shields.io/badge/Solidity-FF006E?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0d0221)
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Fabric-00F5FF?style=for-the-badge&logo=hyperledger&logoColor=white&labelColor=0d0221)
+![MongoDB](https://img.shields.io/badge/MongoDB-00F5FF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d0221)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B026FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0221)
+![Neo4j](https://img.shields.io/badge/Neo4j-00F5FF?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=0d0221)
 <br/>
-<img src="https://img.shields.io/badge/Redis-B026FF?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Kubernetes-FF006E?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Neo4j-00F5FF?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Three.js-B026FF?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0d0221"/>
-<img src="https://img.shields.io/badge/Next.js-FF006E?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d0221"/>
+![Kafka](https://img.shields.io/badge/Kafka-00F5FF?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0d0221)
+![Redis](https://img.shields.io/badge/Redis-B026FF?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d0221)
+![Docker](https://img.shields.io/badge/Docker-FF006E?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0221)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FF006E?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0221)
+![Three.js](https://img.shields.io/badge/Three.js-B026FF?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0d0221)
+![Next.js](https://img.shields.io/badge/Next.js-FF006E?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d0221)
 
 </div>
 
-<br/>
+| Area | Tools |
+|---|---|
+| **Backend** | Java, Spring Boot, JWT, Flyway, Resilience4j, REST |
+| **Architecture** | Microservices, Event-Driven, CQRS, Event Sourcing, Saga |
+| **Data & Messaging** | PostgreSQL, MongoDB, Neo4j, ChromaDB, Redis, Kafka |
+| **Blockchain** | Solidity, Ethereum, Hyperledger Fabric |
+| **AI / ML** | LangChain, YOLOv8, NLP chatbots, multi-agent systems |
+| **Frontend** | React, Vite, Next.js, Three.js, React Three Fiber, GSAP |
+| **DevOps** | Docker, Kubernetes, Git |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=venkatesh0029&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F5FF&icon_color=FF006E&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh0029&theme=synthwave&hide_border=true&background=0d0221&stroke=00F5FF&ring=B026FF&fire=FF006E&currStreakLabel=00F5FF" width="49%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=venkatesh0029&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F5FF&icon_color=FF006E&text_color=c9d1d9&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh0029&theme=synthwave&hide_border=true&background=0d0221&stroke=00F5FF&ring=B026FF&fire=FF006E&currStreakLabel=00F5FF" />
 
-<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh0029&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh0029&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=00F5FF&text_color=c9d1d9&langs_count=10" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh0029&theme=synthwave&hide_border=true&bg_color=0d0221&color=00F5FF&line=B026FF&point=FF006E" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=venkatesh0029&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh0029&theme=synthwave&hide_border=true&bg_color=0d0221&color=00F5FF&line=B026FF&point=FF006E" width="100%" />
 
 </div>
 
-<br/>
+### 🐍 Contribution Snake
 
-<!-- Snake contribution animation -->
 <div align="center">
-
-### 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/venkatesh0029/venkatesh0029/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>Powered by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — see setup note below ⬇️</sub>
-
+  <img src="https://raw.githubusercontent.com/venkatesh0029/venkatesh0029/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
+## 🎯 Currently Focused On
 
+- [x] Multi-service Spring Boot banking platform (GDB)
+- [ ] ML fraud detection integration (SecurePay)
+- [ ] Event-sourced ledger with CQRS and Sagas (LedgerCore)
+- [ ] Verifiable AI agent framework (AgentTrust)
+- [ ] DSA and system design for product-company SDE interviews
+
+---
 
 <div align="center">
 
+### 🤝 Let's Connect
+
+Open to **backend SDE internships and roles**, and to collaborating on distributed systems, blockchain and AI-agent projects.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:B026FF,100:00F5FF&height=150&section=footer" width="100%" />
+
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:B026FF,100:00F5FF&height=150&section=footer" width="100%"/>
-
-</div>
-
-<!--
-SETUP NOTES (delete this block once configured):
-
-1. Snake animation — add `.github/workflows/snake.yml` to this repo:
-
-   name: generate animation
-   on:
-     schedule:
-       - cron: "0 */6 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           id: snake-gif
-           with:
-             github_user_name: venkatesh0029
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-2. Update the LinkedIn / Portfolio badge links (currently "#") with your real URLs.
-3. All stat cards point to github-readme-stats.vercel.app, github-readme-streak-stats.herokuapp.com,
-   github-profile-trophy.vercel.app and github-readme-activity-graph.vercel.app — these are free public
-   instances and need no setup, but you can self-host any of them if you hit rate limits.
--->
